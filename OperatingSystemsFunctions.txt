@@ -4,3 +4,6 @@ mobile broadband. some connections will configure the setting automatically, but
 
 configuring devices:
 device drivers are small programs that help the operating system communicating with hardwares. drivers need to be installed to work properly. when we turn on the system drivers communicate with the operating system and tell it how to communicate with the device.all devices like mouse, keyboard, webcam and etc have their own drivers.
+
+updating operating system software:
+operating system just like other programs include automatic update. with this feature windows will look up for updates available and install them. these updates might fix an error or increase performance or sequrity of the system. you can manually turn automatic update on or off. but it is recommended to let the automatic update be on to receive the latest update.
