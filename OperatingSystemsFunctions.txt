@@ -1,1 +1,3 @@
-
+establishing an internet connection:
+operating systems normally have a section to provide a connection to internet. these internet connection can be wired like cable and DSL or wireless like Wi-Fi, satellite or 
+mobile broadband. some connections will configure the setting automatically, but some others need to configure manually.
